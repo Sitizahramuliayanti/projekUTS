@@ -1,0 +1,57 @@
+.jumbotron {
+    background-image: url('img/fix.jpg');
+    background-attachment: fixed;
+    color: white;
+    background-size: cover;
+    background-position: 0 -60px;
+    height: 600px;
+    padding-top: 12rem ;
+    text-shadow: 100px;
+}
+.banner {
+    background: url("img/R\ \(1\).jpg") no-repeat center center;
+    background-repeat: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.lingkaran {
+    display:inline-block;
+    border-radius: 50%;
+    width: 90px;
+    margin: auto;
+    height: 85px;
+    color: #ffff;
+    background-color: orange;
+
+}
+
+.lingkaran i{
+    position: relative;
+    top: 30px;
+
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.tim {
+    width: 250px;
+    border: 10px so;
+}
+
+.contact img {
+    height: auto;
+    max-height: 50px;
+
+
+}
+
+.card {
+    position: relative ;
+}
+
+
+
